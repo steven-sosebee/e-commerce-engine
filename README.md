@@ -24,7 +24,7 @@ The application is fully back-end and requires npm packages to be installed. The
 
 The application includes a schema and seed data for creating a mysql database. The database should be initialized first using mysql, then seed the database using the 'node seeds' command. The application can be started using the 'nodemon server.js' command to begin the application listening.
 
-![View demo video](https://drive.google.com/file/d/1xfW-GHQO-Xh8W8dd78tJLIwN9NU0mJZy/view)
+[View demo video](https://drive.google.com/file/d/1xfW-GHQO-Xh8W8dd78tJLIwN9NU0mJZy/view)
 
 ## Questions and Contact Info
 
